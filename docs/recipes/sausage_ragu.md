@@ -4,6 +4,8 @@ summary: Italian sausage in a tomato sauce.
 date: 2021-10-10
 ---
 
+![ragu](../assets/ragu.jpeg)
+
 # Ingredients
 
 - 1 lb sweet italian sausage
